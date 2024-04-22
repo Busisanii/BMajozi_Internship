@@ -1,0 +1,60 @@
+﻿@model BMajozi.Models.ViewModel.Summary;
+
+<div class="text-center">
+    <h3 class="text-center mt-3">Survey Results</h3>
+    <br />
+    <div>
+        <table class="mt-4">
+            <tr>
+                <td>Total number of surveys</td>
+                <td>@Model.Count</td>
+            </tr>
+            <tr>
+                <td>Average Age</td>
+                <td>@Model.AverageAge</td>
+            </tr>
+            <tr>
+                <td>Oldest person who participated in survey</td>
+                <td>@Model.MaxAge</td>
+            </tr>
+            <tr>
+                <td>Youngest person who participated in survey</td>
+                <td>@Model.MinAge</td>
+            </tr>
+        </table>
+
+
+        <table class="mt-4">
+            <tr>
+                <td>Percentage of people who like Pizza</td>
+                <td>@Model.PizzaLikersPercent %</td>
+            </tr>
+            <tr>
+                <td>Percentage of people who like Pasta</td>
+                <td>@Model.PastaLikersPercent %</td>
+            </tr>
+            <tr>
+                <td>Percentage of people who like Pap and Wors</td>
+                <td>@Model.PapNWLikersPercent %</td>
+            </tr>
+        </table>
+        <table class="mt-4">
+            <tr>
+                <td>People who like to watch movies</td>
+                <td>@Model.PPLWatchingMovie</td>
+            </tr>
+            <tr>
+                <td>People who like to listen to radio</td>
+                <td>@Model.PPLListiningRadio</td>
+            </tr>
+            <tr>
+                <td>People who like to eat out</td>
+                <td>@Model.PPLEating</td>
+            </tr>
+            <tr>
+                <td>People who like to watch TV</td>
+                <td>@Model.PPLWatchingTV</td>
+            </tr>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\models\\viewmodel\\surveyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\models\\viewmodel\\surveyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\models\\viewmodel\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\models\\viewmodel\\summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|c:\\users\\busisani majozi\\desktop\\bmajozi\\bmajozi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6905A564-943A-4EFE-B768-31DAD8446989}|BMajozi\\BMajozi.csproj|solutionrelative:bmajozi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BMajozi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BMajozi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T19:24:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BMajozi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BMajozi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T18:53:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "BMajozi\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Data\\Seed.cs",
+              "RelativeToolTip": "BMajozi\\Data\\Seed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:52:42.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Models\\ViewModel\\Summary.cs",
+              "RelativeDocumentMoniker": "BMajozi\\Models\\ViewModel\\Summary.cs",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Models\\ViewModel\\Summary.cs",
+              "RelativeToolTip": "BMajozi\\Models\\ViewModel\\Summary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:52:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BMajozi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BMajozi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T18:21:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SurveyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Models\\ViewModel\\SurveyViewModel.cs",
+              "RelativeDocumentMoniker": "BMajozi\\Models\\ViewModel\\SurveyViewModel.cs",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Models\\ViewModel\\SurveyViewModel.cs",
+              "RelativeToolTip": "BMajozi\\Models\\ViewModel\\SurveyViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:20:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BMajozi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BMajozi\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:03:00.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Home\\Results.cshtml",
+              "RelativeDocumentMoniker": "BMajozi\\Views\\Home\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Busisani Majozi\\Desktop\\BMajozi\\BMajozi\\Views\\Home\\Results.cshtml",
+              "RelativeToolTip": "BMajozi\\Views\\Home\\Results.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T18:19:04.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
